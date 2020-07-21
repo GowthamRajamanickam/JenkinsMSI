@@ -1,0 +1,6 @@
+/Users/gowthamrajamanickam/Projects/JenkinsMSICreation/JenkinsMSICreation/bin/Debug/JenkinsMSICreation.exe
+/Users/gowthamrajamanickam/Projects/JenkinsMSICreation/JenkinsMSICreation/bin/Debug/JenkinsMSICreation.pdb
+/Users/gowthamrajamanickam/Projects/JenkinsMSICreation/JenkinsMSICreation/obj/Debug/JenkinsMSICreation.csprojAssemblyReference.cache
+/Users/gowthamrajamanickam/Projects/JenkinsMSICreation/JenkinsMSICreation/obj/Debug/JenkinsMSICreation.csproj.CoreCompileInputs.cache
+/Users/gowthamrajamanickam/Projects/JenkinsMSICreation/JenkinsMSICreation/obj/Debug/JenkinsMSICreation.exe
+/Users/gowthamrajamanickam/Projects/JenkinsMSICreation/JenkinsMSICreation/obj/Debug/JenkinsMSICreation.pdb
